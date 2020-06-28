@@ -4,7 +4,7 @@ layout: default
 
 Hello! I'm a third year majoring in Computer Science in the College of Letters & Science at UC Berkeley. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu) and plan to graduate in Spring 2022.
 
-I'm broadly interested in backend engineering, data science, natural language processing, and human computer interaction. I'm currently a software engineering intern at Apple. [Learn more about my technical experience.](./experience)
+I'm interested in **backend engineering**, **data science**, **natural language processing**, and **user interface design**. I'm currently a software engineering intern at Apple. [Learn more about my technical experience.](./experience)
 
 I'm a TA for CS61B, Berkeley's Data Structures course. [Look through my teaching materials.](./teaching)
 
