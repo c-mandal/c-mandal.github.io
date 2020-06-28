@@ -18,6 +18,11 @@ B.A. Computer Science, University of California, Berkeley 2022
 
 **Planned courses for Fall 2020*
 
+### Teaching Experience
+
+- TA, CS61B Data Structures, Fall 2020
+- Tutor, CS61B Data Structures, Spring 2020
+
 ### Extracurriculars
 
 [**Upsilon Pi Epsilon, Nu Chapter**](https://upe.berkeley.edu), 

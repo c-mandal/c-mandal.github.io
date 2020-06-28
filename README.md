@@ -1,4 +1,3 @@
 ## Chirasree Mandal's Personal Website
-
-Based on the jekyll theme [minimal](http://pages-themes.github.io/minimal)
+The code for my personal website, made with some modifications to the jekyll theme [minimal](http://pages-themes.github.io/minimal)
 

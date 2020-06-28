@@ -3,7 +3,8 @@ layout: default
 ---
 ## The Maggi Project
 
-Inspired by an instagram post, I sought to answer a seemingly simple question: can you tell a lot about a person by if they like their Maggi dry or soupy?
+Inspired by an instagram post, I sought to answer a seemingly simple question:
+> Can you tell a lot about a person by if they like their Maggi dry or soupy?
 
 Maggi is a popular instant noodle dish in South Asian countries and the diaspora. I made a Google Forms survey asking mostly college students how they liked their Maggi, and a handful of other random questions such as:
 - Where is your hometown?
