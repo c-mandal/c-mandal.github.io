@@ -2,6 +2,8 @@
 layout: default
 ---
 ## Projects
+<div class="card"> Hello </div>
+
 
 [The Maggi Project](./maggi), an fun exercise in data ~~cleaning~~ visualization. 
 
