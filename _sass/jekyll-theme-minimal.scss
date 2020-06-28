@@ -40,8 +40,10 @@ a {
   color:#33ac92;
   text-decoration:none;
 }
-
-a:hover, a:focus {
+a strong {
+  color: #2ea188;
+}
+a:hover, a:focus, a:hover strong{
   color:#237e6a;
   font-weight: bold;
 }
@@ -72,6 +74,8 @@ blockquote {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
+  background:#eeeeee;
+  border-radius:5px;
 }
 
 pre {

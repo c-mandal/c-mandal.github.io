@@ -6,35 +6,19 @@ layout: default
 If you'd like my resume, reach out at *chirasree **at** berkeley **dot** edu*
 
 ### Skills
-```
-- Python
-    - Django
-    - Flask
-    - pandas
-- Java
-- Ruby on Rails
-- SQL & NoSQL
-    - Postgres
-    - Redis
-    - Cypher & Neo4j
-```
+🐍 ☕ 💎 📂 🔗
+
+`Python` [Django, Flask, pandas], `Java`, `Ruby on Rails`, `SQL` & `NoSQL` [Cypher & Neo4j, Redis], `HTML/CSS`
+
+
 ### Internships
+- Apple, Localization and Release Engineering Intern, Summer 2020
+- Expedia, Software Engineering Intern, Summer 2018
 
-### Selected Coursework
+### Research
 
-| Department       | Course                                                | Course Number        |
-|------------------|-------------------------------------------------------|----------------------|
-| Computer Science | Algorithms                                            | CS170                |
-|                  | Data Structures                                       | CS61B                |
-|                  | Discrete Math and Probability Theory                  | CS70                 |
-|                  | The Structure and Interpretation of Computer Programs | CS61A                |
-|                  | **Algorithms for Computational Biology* | CS176           |
-|                  | **Great Ideas in Computer Architecture (Machine Structures)* | CS61C                |
-| Design           | Visual Communication and Sketching                    | Design Innovation 21 |
-| Data Science     | The Foundations of Data Science                       | Data8                |
-
-**Planned courses for Fall 2020*
-### Research Experience
+- Jain Lab, UCSF, June - December 2019
+- Ji Lab, Berkeley, August 2018 - May 2019
 
 ### Awards and Affiliations
 
