@@ -4,13 +4,13 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#154b40;
   margin:0 0 20px;
 }
 
@@ -26,13 +26,15 @@ h1 {
   font-size:28px;
 }
 
+/*
 h2 {
-  color:#393939;
+  color:#0e312a;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#0e312a;
 }
+*/
 
 a {
   color:#33ac92;
@@ -110,12 +112,12 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   .nav {
-    font-size:16px;
+    font-size:18px;
   }
   .photo, .bio {
     padding-top: 8px;
     padding-bottom: 8px;
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 
