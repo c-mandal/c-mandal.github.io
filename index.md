@@ -57,10 +57,11 @@ University of California, Berkeley
 |                  | Data Structures                                       | CS61B                |
 |                  | Discrete Math and Probability Theory                  | CS70                 |
 |                  | The Structure and Interpretation of Computer Programs | CS61A                |
-|                  | **Algorithms for Computational Biology* | CS176           |
-|                  | **Great Ideas in Computer Architecture (Machine Structures)* | CS61C                |
+|                  | **Algorithms for Computational Biology*               | CS176                |
+|                  | **Great Ideas in Computer Architecture (Machine Structures)* | CS61C         |
 | Design           | Visual Communication and Sketching                    | Design Innovation 21 |
 | Data Science     | The Foundations of Data Science                       | Data8                |
+|                  | Data Science in Genetics and Genomics                 | Data88               |
 
 **Planned courses for Fall 2020*
 
