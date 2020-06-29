@@ -3,6 +3,8 @@ layout: default
 ---
 ## The Maggi Project
 
+*(under construction)*
+
 Inspired by an instagram post, I sought to answer a seemingly simple question:
 > Can you tell a lot about a person by if they like their Maggi dry or soupy?
 

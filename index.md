@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Hello!
-I'm a third year majoring in Computer Science in the College of Letters & Science at UC Berkeley. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu) and plan to graduate in Spring 2022.
+I'm a third year majoring in Computer Science at UC Berkeley. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu) and plan to graduate in Spring 2022.
 
 I'm interested in **backend engineering**, **data science**, **natural language processing**, and **user interface design**. I'm currently a software engineering intern at Apple. [Learn more about my technical experience.](./#experience)
 
@@ -17,12 +17,6 @@ When I'm not working, I enjoy watching movies, drinking cold brew coffee, and re
 
 ## Experience
 If you'd like my resume, reach out at *chirasree **at** berkeley **dot** edu*
-
-### Skills
-🐍 ☕ 💎 📂 🔗
-
-`Python` [Django, Flask, pandas], `Java`, `Ruby on Rails`, `SQL` & `NoSQL` [Cypher & Neo4j, Redis], `HTML/CSS`
-
 
 ### Internships
 Apple, Summer 2020 
@@ -50,7 +44,11 @@ Ji Lab, Berkeley, August 2018 - May 2019
 
 
 ## Education
-B.A. Computer Science, University of California, Berkeley 2022
+
+University of California, Berkeley
+: B.A. Computer Science, 2022
+
+
 ### Selected Coursework
 
 | Department       | Course                                                | Course Number        |
@@ -90,15 +88,16 @@ Publicity Officer
 
 Materials that I make for my discussion section will be posted here!
 
-### Learning Data Structures
+### Additional Resources
 
 - [Visualizing Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-### Learning Java
 ***
 
 ## Projects
 
-[The Maggi Project](./maggi), an fun exercise in data ~~cleaning~~ visualization. 
+*(under construction)*
+
+[The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization. 
 
 [Modeling the Feasibility of Non-Informed Pooled Testing Methods](https://paper.dropbox.com/doc/Modeling-the-Feasibility-of-Non-Informed-Pooled-Testing-Methods-2Oz1WGhACaBr5lj4ch4fl), a probability project inspired by the trends in testing for COVID-19
