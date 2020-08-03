@@ -53,12 +53,12 @@ University of California, Berkeley
 
 | Department       | Course                                                | Course Number        |
 |------------------|-------------------------------------------------------|----------------------|
-| Computer Science | Algorithms                                            | CS170                |
+| Computer Science | **Algorithms for Computational Biology*               | CS176                |
+|                  | **Great Ideas in Computer Architecture (Machine Structures)* | CS61C         |
+|                  | Algorithms                                            | CS170                |
 |                  | Data Structures                                       | CS61B                |
 |                  | Discrete Math and Probability Theory                  | CS70                 |
 |                  | The Structure and Interpretation of Computer Programs | CS61A                |
-|                  | **Algorithms for Computational Biology*               | CS176                |
-|                  | **Great Ideas in Computer Architecture (Machine Structures)* | CS61C         |
 | Design           | Visual Communication and Sketching                    | Design Innovation 21 |
 | Data Science     | The Foundations of Data Science                       | Data8                |
 |                  | Data Science in Genetics and Genomics                 | Data88               |
@@ -85,7 +85,7 @@ Publicity Officer
 ***
 
 ## Teaching 
-### Materials for [CS61B at Berkeley](https://inst.eecs.berkeley.edu/~cs61b/sp20/)
+### Materials for [CS61B at Berkeley](https://fa20.datastructur.es/index.html)
 
 Materials that I make for my discussion section will be posted here!
 
@@ -97,8 +97,7 @@ Materials that I make for my discussion section will be posted here!
 
 ## Projects
 
-*(under construction)*
-
 [The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization. 
 
 [Modeling the Feasibility of Non-Informed Pooled Testing Methods](https://paper.dropbox.com/doc/Modeling-the-Feasibility-of-Non-Informed-Pooled-Testing-Methods-2Oz1WGhACaBr5lj4ch4fl), a probability project inspired by the trends in testing for COVID-19
+
