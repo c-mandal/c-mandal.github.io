@@ -86,10 +86,9 @@ Publicity Officer
 
 ## Projects
 
-[The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization. 
+[The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization about South Asia's favorite instant noodles.
 
 [Modeling the Feasibility of Non-Informed Pooled Testing Methods](https://paper.dropbox.com/doc/Modeling-the-Feasibility-of-Non-Informed-Pooled-Testing-Methods-2Oz1WGhACaBr5lj4ch4fl), a probability project inspired by the trends in testing for COVID-19
-
 
 ***
 
