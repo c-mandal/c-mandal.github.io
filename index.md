@@ -6,9 +6,9 @@ I'm a third year majoring in Computer Science at UC Berkeley. I'm also pursuing 
 
 I'm interested in **backend engineering**, **data science**, **natural language processing**, and **user interface design**. I'm currently a software engineering intern at Apple. [Learn more about my technical experience.](./#experience)
 
-I'm a TA for CS61B, Berkeley's Data Structures course. [Look through my teaching materials.](./#teaching)
-
 In addition to coding, I love digital design and data science. [Check out my projects.](./#projects)
+
+I'm a TA for CS61B, Berkeley's Data Structures course. [Look through my teaching materials.](./#teaching)
 
 I'm originally from Evanston, Illinois but have lived in 10 cities throughout my childhood. 
 When I'm not working, I enjoy watching movies, drinking cold brew coffee, and reading sci-fi.
@@ -84,6 +84,15 @@ Publicity Officer
 
 ***
 
+## Projects
+
+[The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization. 
+
+[Modeling the Feasibility of Non-Informed Pooled Testing Methods](https://paper.dropbox.com/doc/Modeling-the-Feasibility-of-Non-Informed-Pooled-Testing-Methods-2Oz1WGhACaBr5lj4ch4fl), a probability project inspired by the trends in testing for COVID-19
+
+
+***
+
 ## Teaching 
 ### Materials for [CS61B at Berkeley](https://fa20.datastructur.es/index.html)
 
@@ -93,11 +102,4 @@ Materials that I make for my discussion section will be posted here!
 
 - [Visualizing Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-***
-
-## Projects
-
-[The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization. 
-
-[Modeling the Feasibility of Non-Informed Pooled Testing Methods](https://paper.dropbox.com/doc/Modeling-the-Feasibility-of-Non-Informed-Pooled-Testing-Methods-2Oz1WGhACaBr5lj4ch4fl), a probability project inspired by the trends in testing for COVID-19
 
