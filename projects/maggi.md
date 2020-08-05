@@ -13,10 +13,7 @@ Maggi is a Swiss brand dating back to the 1800s, currently owned by Nestle. Magg
 
 The "2-minute noodles" were a hit and have remained popular in South Asia ever since (barring recent complications with food safety in India).
 
-Though a region as diverse as South Asia (+ the diaspora) shares the same love for the instant noodles, Maggi's preparation varies from city to city and family to family. 
-
-Inspired by an instagram post, I sought to answer a seemingly simple question:
-> Can you tell a lot about a person by if they like their Maggi dry or soupy?
+Though South Asia (and the diaspora) shares the same love for the instant noodles, Maggi's preparation varies from city to city and family to family. Inspired by an instagram post, I sought to answer a seemingly simple question: *Can you tell a lot about a person by if they like their Maggi dry or soupy?*
 
  I made a Google Forms survey asking mostly college students how they liked their Maggi, and a handful of other random questions such as:
 - Where is your hometown?
@@ -41,11 +38,13 @@ Suprisingly, people prefer their Maggi dry.
 
 ### Things I learned
 
+I started the project as a fun weeklong experiment, and was overwhelmed by the enthusiasm and the number of responses I recieved. People are very particular about their instant noodles, and it was fun to see friends argue on social media about #TeamDry and #TeamSoupy. Looking back, here are a few things I learned and would do differently if I could approach the project again. 
+
 #### Project design
 
 > **Considering cultural memory**
 
-Looking back on what I learned about Maggi's history, the noodles really became popular in India when my parents' generation were growing up. By the 90's, hundreds of thousands of Indians were immigrating, with the overwhelming majority going to the UK and USA ([source](https://www.migrationpolicy.org/article/emigration-immigration-and-diaspora-relations-india#2)). While I looked at immigration generation in my survey, most of the respondents were in their early 20's. I'd really like to see how older South Asians feel about Maggi, and would love to include people in Europe as well. 
+Looking back on what I learned about Maggi's history, the noodles really became popular in India when my parents' generation were growing up. By the 90's, hundreds of thousands of people were migrating out of India, with the overwhelming majority going to the UK and USA ([source](https://www.migrationpolicy.org/article/emigration-immigration-and-diaspora-relations-india#2)). While I looked at immigration generation in my survey, most of the respondents were in their early 20's. I'd really like to see how older South Asians feel about Maggi, and would love to include people in Europe as well. 
 
 #### Questionnaire design
 > **Keep text data categorical and discrete whenever possible**
@@ -54,7 +53,7 @@ When asking questions about immigration and geographic origin, I wanted to be as
 
 Specifically, I asked about geographic origin in terms of "hometown" and "city of origin". But people may have multiple cities of origin, (for example, their parents are from two different cities, and therefore they identify with two different regional cultures). While I tried to enforce input format with a suggestion of `City, State, Country`, this got complicated as India, and several other countries have changed with each generation of immigrants. Therefore I encountered differences between reported names of states and cities and their modern-day geopolitical names. 
 
-In the future, `States` might be changed to `State/Province/Territory` on a form to be more inclusive, and I'd like to separate the input of `City`, `State`, and `Country`. Perhaps including auto-population for locations might be useful, as well as the ability to add multiple origin locations.
+In the future, `States` might be changed to `State/Province/Territory` on a form to be more inclusive, and I'd like to separate the input of `City`, `State`, and `Country`. Perhaps including auto-population for locations might be useful, as well as the ability to add multiple origin locations. While the `opencages` api is easy to work with, leveraging autocomplete and location services at the form level would save a lot of time and labor in the data cleaning process. 
 
 *\*visuals about geographic origin are being refactored for web interaction*
 
