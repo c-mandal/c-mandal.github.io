@@ -6,9 +6,9 @@ I'm a third year majoring in Computer Science at UC Berkeley. I'm also pursuing 
 
 I'm interested in **backend engineering**, **data science**, **natural language processing**, and **user interface design**. This past summer I was a software engineering intern at Apple. [Learn more about my technical experience.](./#experience)
 
-In addition to coding, I love digital design and data science. [Check out my projects.](./#projects)
+In addition to coding, I love design, illustration, and data science. [Check out my projects.](./#projects)
 
-I'm a TA for CS61B, Berkeley's Data Structures course. [Look through my teaching materials.](./#teaching)
+I'm also TA for CS61B, Berkeley's Data Structures course. 
 
 I'm originally from Evanston, Illinois but have lived in 10 cities throughout my childhood. 
 When I'm not working, I enjoy watching movies, drinking cold brew coffee, and reading sci-fi.
@@ -60,10 +60,11 @@ University of California, Berkeley
 |                  | Discrete Math and Probability Theory                  | CS70                 |
 |                  | The Structure and Interpretation of Computer Programs | CS61A                |
 | Design           | Visual Communication and Sketching                    | Design Innovation 21 |
+|                  | **Design and Activism*                             | Environmental Design 4A|
 | Data Science     | The Foundations of Data Science                       | Data8                |
 |                  | Data Science in Genetics and Genomics                 | Data88               |
 
-**Planned courses for Fall 2020*
+**Courses I'm currently taking*
 
 ### Teaching Experience
 
@@ -73,14 +74,14 @@ CS61B: Data Structures
 
 ### Clubs & Organizations
 
-[**Upsilon Pi Epsilon, Nu Chapter**](https://upe.berkeley.edu), 
+- [**Upsilon Pi Epsilon, Nu Chapter**](https://upe.berkeley.edu), 
 Publicity Officer
 
-[**EthiCAL Apparel**](https://ethicalapparel.org/), Design Associate
+- [**EthiCAL Apparel**](https://ethicalapparel.org/), Design Associate
 
-[**Berkeley Garb**](https://www.berkeleygarb.com/), [Writer](https://www.berkeleygarb.com/members/chirasree-mandal)
+- [**Berkeley Garb**](https://www.berkeleygarb.com/), [Writer](https://www.berkeleygarb.com/members/chirasree-mandal)
 
-**Bangali Student Association at Cal**
+- **Bangali Student Association at Cal**
 
 ***
 
