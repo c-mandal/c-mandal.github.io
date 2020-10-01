@@ -6,7 +6,7 @@ I'm a third year majoring in Computer Science at UC Berkeley. I'm also pursuing 
 
 I'm interested in **backend engineering**, **data science**, **natural language processing**, and **user interface design**. This past summer I was a software engineering intern at Apple. [Learn more about my technical experience.](./#experience)
 
-In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./#projects)
+In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./projects)
 
 I'm also TA for CS61B, Berkeley's Data Structures course. 
 
