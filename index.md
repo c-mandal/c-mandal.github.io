@@ -8,7 +8,7 @@ I'm interested in **backend engineering**, **data science**, **natural language 
 
 In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./projects)
 
-I'm also TA for CS61B, Berkeley's Data Structures course. 
+I'm also TA for CS61B, Berkeley's Data Structures course. [Here my teaching materials!](./#teaching)
 
 I'm originally from Evanston, Illinois but have lived in 10 cities throughout my childhood. 
 When I'm not working, I enjoy watching movies, drinking cold brew coffee, and reading sci-fi.
@@ -99,7 +99,7 @@ Publicity Officer
 ## Teaching 
 ### Materials for [CS61B at Berkeley](https://fa20.datastructur.es/index.html)
 
-Materials that I make for my discussion section will be posted here!
+Materials and slides from my discussion sections are posted here: [tinyurl.com/chi-disc-stuff](https://tinyurl.com/chi-disc-stuff)
 
 ### Additional Resources
 
