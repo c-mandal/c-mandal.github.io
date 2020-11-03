@@ -11,7 +11,7 @@ EthiCAL donates ~60% of its profits to local organizations fighting for environm
 |Orion's BART|
 |:---:|
 |[![Orion's BART](../assets/img/ethical/bart-map-final.png)](https://www.ethicalapparel.org/shop/p/bart-print)|
-|This design is EthiCAL's first print available on our online store. I was inspired by classic illustrations of constellations and star maps.|
+|This design is EthiCAL's first print available on our online store. I reimagined the Bay Area Rapid Transit (BART) as a constellation -- and was inspired by classic astrology illustrations and star maps.|
 
 <br>
 <br>
