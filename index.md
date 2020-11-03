@@ -76,11 +76,8 @@ CS61B: Data Structures
 
 - [**Upsilon Pi Epsilon, Nu Chapter**](https://upe.berkeley.edu), 
 Publicity Officer
-
 - [**EthiCAL Apparel**](https://ethicalapparel.org/), Design Associate
-
 - [**Berkeley Garb**](https://www.berkeleygarb.com/), [Writer](https://www.berkeleygarb.com/members/chirasree-mandal)
-
 - **Bangali Student Association at Cal**
 
 ***
