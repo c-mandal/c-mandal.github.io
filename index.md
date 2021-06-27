@@ -2,28 +2,42 @@
 layout: default
 ---
 ## Hello!
-I'm a third year majoring in Computer Science at UC Berkeley. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu) and plan to graduate in Spring 2022.
+I'm a fourth year undergraduate student majoring in **Computer Science** at **Berkeley**. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu) and plan to graduate in Spring 2022.
 
-I'm interested in **backend engineering**, **data science**, **natural language processing**, and **user interface design**. This past summer I was a software engineering intern at Apple. [Learn more about my technical experience.](./#experience)
+I'm interested in **backend engineering** and **data science**. Some new areas I'm learning more about health tech, accessibility, and search!
+
+I'm currently a Software Engineering Intern at Apple. Learn more about my [technical experience.](./#experience)
 
 In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./projects)
 
-I'm also TA for CS61B, Berkeley's Data Structures course. [Here my teaching materials!](./#teaching)
-
-I'm originally from Evanston, Illinois but have lived in 10 cities throughout my childhood. 
-When I'm not working, I enjoy watching movies, drinking cold brew coffee, and reading sci-fi.
+I grew up in Evanston, Illinois, but have lived in 10 cities throughout my childhood.
+When I'm not working, I enjoy watching movies, trying new coffee, and reading sci-fi novels.
 
 ---
 
 ## Experience
-If you'd like my resume, reach out at *chirasree **at** berkeley **dot** edu*
+If you'd like my resume, please reach out at *chirasree **at** berkeley **dot** edu*
+
+### Skills
+
+| Category | Skills|
+|---|---|
+| Software Engineering|Python [django], Ruby on Rails, Java, SQL, Solr|
+|Data Science| Pandas, Plotly, Matplotlib, Seaborn|
+|Design|Adobe [Illustrator, XD], Procreate, Sketch|
 
 ### Internships
-Apple, Summer 2020 
-: Localization and Release Engineering Intern
+Apple
+: Software Engineering Intern, Localization Automation
+: February 2021 - August 2021
 
-Expedia, Summer 2018
+Apple
+: Software Engineering Intern, Localization Automation
+: June - August 2020
+
+Expedia
 : Software Engineering Intern
+: June - August 2018
 
 ### Research
 
@@ -33,52 +47,40 @@ Jain Lab, UCSF, June - December 2019
 Ji Lab, Berkeley, August 2018 - May 2019
 : Worked on image processing algorithms for denoising calcium images of mouse brains.
 
-### Awards and Affiliations
-
-- Upsilon Pi Epsilon Computer Science Honor Society, [Nu Chapter](https://upe.berkeley.edu)
-- [Rewriting the Code](https://rewritingthecode.org) Fellow 2020, 2019
-- Siemens Competition in Science, Math, and Technology National Semifinalist 2017
-
-
 ***
 
 
 ## Education
 
 University of California, Berkeley
-: B.A. Computer Science, 2022
+: **B.A. Computer Science, 2022**
+
+**Activities**
+- Teaching Assistant and Tutor for CS61B -- Data Structures
+- Upsilon Pi Epsilon Computer Science Honor Society, [Nu Chapter](https://upe.berkeley.edu)
+- [Rewriting the Code](https://rewritingthecode.org) Fellow 2020, 2019
+- [Berkeley Garb](https://www.berkeleygarb.com/), [Writing Team Manager](https://www.berkeleygarb.com/members/chirasree-mandal)
 
 
 ### Selected Coursework
 
 | Department       | Course                                                | Course Number        |
 |------------------|-------------------------------------------------------|----------------------|
-| Computer Science | **Algorithms for Computational Biology*               | CS176                |
-|                  | **Great Ideas in Computer Architecture (Machine Structures)* | CS61C         |
+| Computer Science | **Operating Systems*                                  | CS162                |
+|                  | **Computer Security*                                  | CS161                |
 |                  | Algorithms                                            | CS170                |
 |                  | Data Structures                                       | CS61B                |
+|                  | Computer Architecture (Machine Structures)            | CS61C                |
+|                  | Algorithms for Computational Biology                  | CS176                |
 |                  | Discrete Math and Probability Theory                  | CS70                 |
 |                  | The Structure and Interpretation of Computer Programs | CS61A                |
-| Design           | Visual Communication and Sketching                    | Design Innovation 21 |
-|                  | **Design and Activism*                             | Environmental Design 4A|
+| Design           | **Locative Media*                                     | New Media 205        |
+|                  | Visual Communication and Sketching                    | Design Innovation 21 |
+|                  | Design and Activism                                   | Environmental Design 4A|
 | Data Science     | The Foundations of Data Science                       | Data8                |
 |                  | Data Science in Genetics and Genomics                 | Data88               |
 
-**Courses I'm currently taking*
-
-### Teaching Experience
-
-CS61B: Data Structures
-: TA, Fall 2020
-: Tutor, Spring 2020
-
-### Clubs & Organizations
-
-- [**Upsilon Pi Epsilon, Nu Chapter**](https://upe.berkeley.edu), 
-Publicity Officer
-- [**EthiCAL Apparel**](https://ethicalapparel.org/), Design Associate
-- [**Berkeley Garb**](https://www.berkeleygarb.com/), [Writer](https://www.berkeleygarb.com/members/chirasree-mandal)
-- **Bangali Student Association at Cal**
+\* Courses I'm planning to take in the upcoming semester
 
 ***
 
@@ -90,18 +92,15 @@ Publicity Officer
 
 [EthiCAL Apparel Design Portfolio](./projects/ethical), pieces I've designed for [EthiCAL Apparel](https://www.ethicalapparel.org), a student-run design group for social good at Berkeley. 
 
-
 [Modeling the Feasibility of Non-Informed Pooled Testing Methods](https://paper.dropbox.com/doc/Modeling-the-Feasibility-of-Non-Informed-Pooled-Testing-Methods-2Oz1WGhACaBr5lj4ch4fl), a probability project inspired by the trends in testing for COVID-19
 
 ***
 
-## Teaching 
-### Materials for [CS61B at Berkeley](https://fa20.datastructur.es/index.html)
+## Resources
 
-Materials and slides from my discussion sections are posted here: [tinyurl.com/chi-disc-stuff](https://tinyurl.com/chi-disc-stuff)
-
-### Additional Resources
-
+**Teaching**
+- Materials and slides from my discussion & tutoring sections are posted here: [tinyurl.com/chi-disc-stuff](https://tinyurl.com/chi-disc-stuff)
 - [Visualizing Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-
+**Career**
+- [CS Career Prep Care Package](https://bit.ly/UPExCSS), a portal with resources and advice for finding a software engineering internship, tailored for underrepresented groups in CS. Created through a collaboration between UPE and CS Scholars at Berkeley.
