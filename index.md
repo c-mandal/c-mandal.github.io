@@ -6,7 +6,7 @@ I'm a fourth year undergraduate student majoring in **Computer Science** at **Be
 
 I'm interested in **backend engineering** and **data science**. Some new areas I'm learning more about health tech, accessibility, and search!
 
-I'm currently a Software Engineering Intern at Apple. Learn more about my [technical experience.](./#experience)
+I was a Software Engineering Intern at Apple for 6 months 2021. Learn more about my [technical experience.](./#experience)
 
 In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./projects)
 
@@ -22,7 +22,7 @@ If you'd like my resume, please reach out at *chirasree **at** berkeley **dot** 
 
 | Category | Skills|
 |---|---|
-| Software Engineering|Python [django], Ruby on Rails, Java, SQL, Solr|
+| Software Engineering|Ruby on Rails, Java, SQL, Solr|
 |Data Science| Pandas, Plotly, Matplotlib, Seaborn|
 |Design|Adobe [Illustrator, XD], Procreate, Sketch|
 
@@ -38,14 +38,6 @@ Apple
 Expedia
 : Software Engineering Intern
 : June - August 2018
-
-### Research
-
-Jain Lab, UCSF, June - December 2019
-: Worked on network algorithms for connecting large metabolomics datasets with genomic data.
-
-Ji Lab, Berkeley, August 2018 - May 2019
-: Worked on image processing algorithms for denoising calcium images of mouse brains.
 
 ***
 
@@ -66,19 +58,20 @@ University of California, Berkeley
 
 | Department       | Course                                                | Course Number        |
 |------------------|-------------------------------------------------------|----------------------|
-| Computer Science | **Operating Systems*                                  | CS162                |
-|                  | **Computer Security*                                  | CS161                |
+| Computer Science | Operating Systems                                     | CS162                |
+|                  | Computer Security                                     | CS161                |
 |                  | Algorithms                                            | CS170                |
 |                  | Data Structures                                       | CS61B                |
 |                  | Computer Architecture (Machine Structures)            | CS61C                |
 |                  | Algorithms for Computational Biology                  | CS176                |
 |                  | Discrete Math and Probability Theory                  | CS70                 |
 |                  | The Structure and Interpretation of Computer Programs | CS61A                |
-| Design           | **Locative Media*                                     | New Media 205        |
+| Design           | Locative Media                                        | New Media 205        |
 |                  | Visual Communication and Sketching                    | Design Innovation 21 |
 |                  | Design and Activism                                   | Environmental Design 4A|
 | Data Science     | The Foundations of Data Science                       | Data8                |
 |                  | Data Science in Genetics and Genomics                 | Data88               |
+|                  | **Principles & Techniques of Data Science*              | Data100               |
 
 \* Courses I'm planning to take in the upcoming semester
 
