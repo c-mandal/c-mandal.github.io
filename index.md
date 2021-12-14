@@ -6,7 +6,7 @@ I'm a fourth year undergraduate student majoring in **Computer Science** at **Be
 
 I'm interested in **backend engineering** and **data science**. Some new areas I'm learning more about health tech, accessibility, and search!
 
-I was a Software Engineering Intern at Apple for 6 months 2021. Learn more about my [technical experience.](./#experience)
+I was a Software Engineering Intern at Apple for 6 months in 2021. Learn more about my [technical experience.](./#experience)
 
 In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./projects)
 
