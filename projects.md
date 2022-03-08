@@ -3,6 +3,8 @@ layout: default
 ---
 ## Projects
 
+[diff3words](https://github.com/c-mandal/diff3words), a navigation algorithm for the physical world using string edit distances.
+
 [The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization about South Asia's favorite instant noodles.
 
 [Social media graphics](./projects/efbl) and data projects for the [Evanston Fight For Black Lives](https://www.instagram.com/evanstonforblacklives/?hl=en) organization. 
