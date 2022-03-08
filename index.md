@@ -2,11 +2,7 @@
 layout: default
 ---
 ## Hello!
-I'm a fourth year undergraduate student majoring in **Computer Science** at **Berkeley**. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu) and plan to graduate in Spring 2022.
-
-I'm interested in **backend engineering** and **data science**. Some new areas I'm learning more about health tech, accessibility, and search!
-
-I was a Software Engineering Intern at Apple for 6 months in 2021. Learn more about my [technical experience.](./#experience)
+I'm a fourth year undergraduate student majoring in **Computer Science** at **Berkeley**. I'm also pursuing the [Berkeley Certificate in Design Innovation](https://bcdi.berkeley.edu). I'm graduating in May 2022!
 
 In addition to coding, I love telling stories with illustration and data science. [Check out my projects.](./projects)
 
@@ -17,14 +13,6 @@ When I'm not working, I enjoy watching movies, trying new coffee, and reading sc
 
 ## Experience
 If you'd like my resume, please reach out at *chirasree **at** berkeley **dot** edu*
-
-### Skills
-
-| Category | Skills|
-|---|---|
-| Software Engineering|Ruby on Rails, Java, SQL, Solr|
-|Data Science| Pandas, Plotly, Matplotlib, Seaborn|
-|Design|Adobe [Illustrator, XD], Procreate, Sketch|
 
 ### Internships
 Apple
@@ -41,7 +29,6 @@ Expedia
 
 ***
 
-
 ## Education
 
 University of California, Berkeley
@@ -50,34 +37,13 @@ University of California, Berkeley
 **Activities**
 - Teaching Assistant and Tutor for CS61B -- Data Structures
 - Upsilon Pi Epsilon Computer Science Honor Society, [Nu Chapter](https://upe.berkeley.edu)
-- [Rewriting the Code](https://rewritingthecode.org) Fellow 2020, 2019
 - [Berkeley Garb](https://www.berkeleygarb.com/), [Writing Team Manager](https://www.berkeleygarb.com/members/chirasree-mandal)
-
-
-### Selected Coursework
-
-| Department       | Course                                                | Course Number        |
-|------------------|-------------------------------------------------------|----------------------|
-| Computer Science | Operating Systems                                     | CS162                |
-|                  | Computer Security                                     | CS161                |
-|                  | Algorithms                                            | CS170                |
-|                  | Data Structures                                       | CS61B                |
-|                  | Computer Architecture (Machine Structures)            | CS61C                |
-|                  | Algorithms for Computational Biology                  | CS176                |
-|                  | Discrete Math and Probability Theory                  | CS70                 |
-|                  | The Structure and Interpretation of Computer Programs | CS61A                |
-| Design           | Locative Media                                        | New Media 205        |
-|                  | Visual Communication and Sketching                    | Design Innovation 21 |
-|                  | Design and Activism                                   | Environmental Design 4A|
-| Data Science     | The Foundations of Data Science                       | Data8                |
-|                  | Data Science in Genetics and Genomics                 | Data88               |
-|                  | **Principles & Techniques of Data Science*              | Data100               |
-
-\* Courses I'm planning to take in the upcoming semester
 
 ***
 
 ## [Projects](./projects)
+
+[diff3words](https://github.com/c-mandal/diff3words), a navigation algorithm for the physical world using string edit distances.
 
 [The Maggi Project](./projects/maggi), an fun exercise in data ~~cleaning~~ visualization about South Asia's favorite instant noodles.
 
@@ -92,6 +58,7 @@ University of California, Berkeley
 ## Resources
 
 **Teaching**
+- [Music 198 - The Popular Music Appreciation DeCal at Berkeley](https://www.popmusicdecal.org)
 - Materials and slides from my discussion & tutoring sections are posted here: [tinyurl.com/chi-disc-stuff](https://tinyurl.com/chi-disc-stuff)
 - [Visualizing Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
